@@ -2,6 +2,14 @@
 <h3 align="center">With a solid background in fullstack development, I am a Fullstack Software Engineer skilled in creating scalable and robust software solutions. My educational qualifications include a Bachelor's degree in IT . I bring expertise in a diverse tech stack, including TypeScript, Node.js, React, Next.js. allowing me to tackle a wide range of technical challenges effectively..</h3>
 
 ###
+<h3 align="left">🌐 Portfolio</h3>
+
+<div align="left">
+  <a href="https://mostafa-moawed.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio link" />
+  </a>
+</div>
+###
 
 <h3 align="left">💬 Reach me on</h3>
 
