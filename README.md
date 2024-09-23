@@ -9,7 +9,6 @@
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio link" />
   </a>
 </div>
-###
 
 <h3 align="left">💬 Reach me on</h3>
 
